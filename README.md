@@ -1,7 +1,7 @@
 # Casino
 
 ## Description
-A simple gambling game. Constantly being updated!
+A simple gambling game. My very first github repository.
 
 ## Installation
 Clone the repository:
